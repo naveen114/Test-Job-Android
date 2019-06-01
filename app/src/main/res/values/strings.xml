@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestJob</string>
+    <string name="app_nameNotify">TestJob-5m</string>
+    <string name="running">Test job is running</string>
+    <string name="production">Production</string>
+    <string name="qa">QA</string>
+</resources>

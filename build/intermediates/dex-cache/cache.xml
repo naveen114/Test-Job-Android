@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/design-27.1.1.aar/e9b1eee04cd0a0e565b48a2ed275dcb8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/materialdatetimepicker-3.6.0.aar/ba6002852c10e2a4cef26638b82c7e3b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9686c3de270cb1639910e9eddc2c2245ee206347">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.0.1/cc0483d84342e82c261aeb5fd0ef2f876b587489/baseLibrary-3.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cc0483d84342e82c261aeb5fd0ef2f876b587489">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/018d7b6da50d4b0de60891371658124f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="019d86b31bcd21970d370ca1425cc68ec23f1be7">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/de60fb9218401aca6e924b46cd34c94f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/16ad3eda66beb3c82b73148c19d62bb8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0251013672d859015b9ed839d08e2edd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/803359df169d748e42d329cd6cff3d1e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d620e8c960c95a580c2d9a319299bd10/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5244934322fb643d65463a6e299f9dcf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/transition-27.1.1.aar/26a855a0e3689fcb58fb0df99e5c2e27/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5a0e22f8d40ed0c25755e4e27f94a93c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b8c9ffa6aa9fa67c5a819a3b46f08296/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/91d4359559e4096875814405c4daa8c5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74c4fa2fa8d1def4524ec57ce59a367f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/Desktop/TestJob/notifyme/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="33fed2d404574703985524c9f6c4b4e891ecd018">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/314a762bc43d63a1f514f414aa9831ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/040644224446975281a313b95510dc14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6a408190377f89059300a3c65c691eed/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/adapters-1.3.1.aar/61fc4350fdb5e6e8607cbab17b2b9145/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b4c1543d55e71addce39893c8e75f5b0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/designer/.gradle/wrapper/dists/gradle-4.4-all/caches/transforms-1/files-1.1/library-1.3.1.aar/7a6538ed9fb0d1d26be872a449b01937/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/home/designer/Desktop/TestJob/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+
+</items>

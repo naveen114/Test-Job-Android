@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.atpl.notifyme">
+
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR"/>
+
+    <application>
+        <receiver
+            android:name="com.atpl.notifyme.BootNotifyMe"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name="com.atpl.notifyme.ActionReceiver"
+            android:enabled="true"
+            android:exported="true" />
+        <receiver
+            android:name="com.atpl.notifyme.DeletePendingIntent"
+            android:enabled="true"
+            android:exported="true"></receiver>
+    </application>
+
+</manifest>
